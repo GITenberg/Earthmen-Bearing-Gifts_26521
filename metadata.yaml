@@ -1,0 +1,35 @@
+_repo: Earthmen-Bearing-Gifts_26521
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carter
+    gutenberg_agent_id: '49085'
+    url: http://www.gutenberg.org/2009/agents/49085
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Fredric
+    birthdate: 1906
+    deathdate: 1972
+    gutenberg_agent_id: '32063'
+    url: http://www.gutenberg.org/2009/agents/32063
+    wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Earthmen Bearing Gifts
+url: http://www.gutenberg.org/ebooks/26521
